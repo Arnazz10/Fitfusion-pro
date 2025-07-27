@@ -1,6 +1,6 @@
 # 🏋️‍♂️ FitFusion Pro
 
-**FitFusion Pro** is a smart fitness and gym management platform that doubles as your personal trainer, nutritionist, and wellness companion. It includes **AI-powered posture detection** using machine learning to guide your workouts with real-time feedback — ideal for squats, pushups, pullups
+**FitFusion Pro** is a smart fitness and gym management platform that doubles as your personal trainer, nutritionist, and wellness companion. It includes **AI-powered posture detection** using machine learning to guide your workouts with real-time feedback — ideal for squats, pushups, pullups.
 
 ---
 
