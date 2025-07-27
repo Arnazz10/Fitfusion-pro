@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Feature
 
 ### 👤 User Features
 - Personalized workout plans
