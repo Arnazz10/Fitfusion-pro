@@ -15,7 +15,6 @@
 - Progress monitoring
 - Chatbot with fitness Q&A
 - Leaderboard, badges, and community forums
-- Wearable device integration
 
 ### 🛠️ Admin Features
 - Member management system
