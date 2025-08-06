@@ -29,6 +29,7 @@
 ## 🧠 AI Posture Detection
 
 The system integrates a machine learning model using computer vision (OpenCV + PoseNet/MediaPipe) to:
+
 - Detect and count reps in real-time
 - Provide posture correction feedback
 - Support multiple exercises like squats, pushups, and pullups
