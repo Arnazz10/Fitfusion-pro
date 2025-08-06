@@ -7,7 +7,7 @@
 ## 🚀 Key Feature
 
 ### 👤 User Features
-- Personalized workout plans
+- Personalized workout plans.
 - AI-based posture detection (e.g., squats, pushups, pullups)
 - Live workout sessions with ML feedback
 - Diet chart generation
